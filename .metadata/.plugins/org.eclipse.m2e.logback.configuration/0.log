@@ -1,0 +1,146 @@
+2019-10-02 21:24:58,102 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-02 21:26:02,564 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:DefectTracker:0.0.1-SNAPSHOT @ C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\pom.xml.
+2019-10-02 21:26:03,909 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DefectTracker/src/main/java
+2019-10-02 21:26:03,911 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DefectTracker/src/main/resources
+2019-10-02 21:26:03,912 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DefectTracker/src/main/resources
+2019-10-02 21:26:03,913 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DefectTracker/src/test/java
+2019-10-02 21:26:05,306 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-10-02 21:26:07,268 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:07,273 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:26:07,296 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:26:07,300 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:07,300 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:26:41,048 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:41,051 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:26:41,053 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:26:41,056 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:41,062 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:26:52,170 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:52,171 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:26:52,174 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:26:52,181 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:26:52,186 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:27:14,807 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:14,807 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:27:14,812 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:27:14,819 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:14,825 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:27:23,368 [Worker-6: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:27:23,375 [Worker-6: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:27:26,205 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:26,214 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:27:26,228 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:27:26,236 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:26,236 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:27:31,207 [Worker-3: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:27:31,208 [Worker-3: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:27:35,189 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:35,195 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:27:35,203 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:27:35,205 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:35,210 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:27:55,524 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:27:55,524 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:27:58,022 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:58,029 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:27:58,038 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:27:58,045 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:27:58,045 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:28:05,579 [Worker-2: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:28:05,580 [Worker-2: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:28:09,394 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:09,395 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:28:09,398 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:28:09,402 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:09,402 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:28:30,130 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:30,137 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:28:30,137 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:28:30,146 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:30,146 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:28:41,064 [Worker-12: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:28:41,064 [Worker-12: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:28:43,673 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:43,674 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:28:43,683 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:28:43,685 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:43,690 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:28:51,548 [Worker-4: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:28:51,552 [Worker-4: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:28:55,432 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:55,438 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:28:55,445 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:28:55,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:28:55,452 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:30:05,580 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:30:05,580 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:30:08,791 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:08,799 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:30:08,808 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:30:08,810 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:08,820 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:30:16,367 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-10-02 21:30:17,247 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:DefectTracker:0.0.1-SNAPSHOT @ C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\pom.xml.
+2019-10-02 21:30:18,284 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DefectTracker/src/main/java
+2019-10-02 21:30:18,290 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DefectTracker/src/main/resources
+2019-10-02 21:30:18,297 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DefectTracker/src/main/resources
+2019-10-02 21:30:18,306 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DefectTracker/src/test/java
+2019-10-02 21:30:18,562 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-10-02 21:30:19,603 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:19,603 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:30:19,619 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:30:19,622 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:19,630 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:30:26,037 [Worker-8: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:30:26,042 [Worker-8: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:30:30,347 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:30,353 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:30:30,361 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:30:30,367 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:30,367 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:30:58,283 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:58,284 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:30:58,284 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:30:58,285 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:30:58,292 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:31:07,374 [Worker-4: Launching Executing test in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:31:07,378 [Worker-4: Launching Executing test in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-10-02 21:31:11,845 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:11,852 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:31:11,861 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:31:11,870 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:11,870 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:31:19,147 [Worker-2: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:31:19,147 [Worker-2: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:31:21,831 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:21,832 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:31:21,835 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:31:21,837 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:21,837 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:31:30,721 [Worker-7: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:31:30,726 [Worker-7: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:31:34,502 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:34,510 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:31:34,517 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:31:34,524 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:31:34,524 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:32:06,699 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:06,701 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:32:06,718 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:32:06,734 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:06,744 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:32:11,137 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:32:11,142 [Worker-1: Launching Executing clean in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-10-02 21:32:13,965 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:13,972 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:32:13,980 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:32:13,989 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:13,989 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-02 21:32:18,999 [Worker-2: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker
+2019-10-02 21:32:18,999 [Worker-2: Launching Executing install in C__Users_Kajaruban_Desktop_spring_boot_final_assiginment_DefectTracker] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-10-02 21:32:41,603 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:41,611 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-02 21:32:41,619 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-02 21:32:41,620 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-02 21:32:41,625 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kajaruban\Desktop\spring_boot_final_assiginment\DefectTracker\src\test\resources
+2019-10-03 20:38:27,515 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

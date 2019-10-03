@@ -1,0 +1,8 @@
+com\DefectTracker\repository\ProjectRepository.class
+com\DefectTracker\controller\DefectController.class
+com\DefectTracker\repository\DefectRepository.class
+com\DefectTracker\Exception\ResourceNotFoundException.class
+com\DefectTracker\model\Defect.class
+com\DefectTracker\model\Project.class
+com\DefectTracker\DefectTrackerApplication.class
+com\DefectTracker\controller\ProjectController.class
